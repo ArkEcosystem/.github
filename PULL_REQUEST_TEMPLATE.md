@@ -1,43 +1,29 @@
 <!--
-Please make sure to read the Pull Request Guidelines:
-https://docs.ark.io/guidebook/contribution-guidelines/contributing.html
+Thanks for your interest in the project. Bugs filed and PRs submitted are appreciated!
+
+Please make sure you're familiar with and follow the instructions in the [contributing guidelines](https://docs.ark.io/guidebook/contribution-guidelines/contributing.html).
+
+Please fill out the information below to expedite the review and (hopefully) merge of your pull request!
 -->
 
-A summary of what changes this PR introduces and why they were made.
+## What
 
-<!-- (Update "[ ]" to "[x]" to check a box) -->
+<!-- What changes are being made? -->
 
-## What kind of change does this PR introduce?
+## Why
 
-- [ ] Bugfix
-- [ ] Feature
-- [ ] Refactor
-- [ ] Performance
-- [ ] Tests
-- [ ] Build
+<!-- Why are these changes necessary? -->
+
+## How
+
+<!-- How were these changes implemented? -->
+
+## Checklist
+
+<!-- Have you done all of these things?  -->
+
 - [ ] Documentation
-- [ ] Code style update
-- [ ] Continuous Integration
-- [ ] Other, please describe:
+- [ ] Tests
+- [ ] Ready to be merged
 
-## Does this PR introduce a breaking change?
-
-- [ ] Yes
-- [ ] No
-
-## Does this PR release a new version?
-
-- [ ] Yes
-- [ ] No
-
-If yes, please describe the impact and migration path for existing applications:
-
-**The PR fulfills these requirements:**
-
-- [ ] It's submitted to the `develop` branch, _not_ the `master` branch
-- [ ] All tests are passing
-- [ ] New/updated tests are included
-
-If adding a **new feature**, the PR's description includes:
-
-- [ ] A convincing reason for adding this feature (to avoid wasting your time, it's best to open a suggestion issue first and wait for approval before working on it)
+<!-- feel free to add additional comments -->
