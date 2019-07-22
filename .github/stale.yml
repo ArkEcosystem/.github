@@ -23,8 +23,10 @@ exemptLabels:
   - "Test: Integration"
   - "Test: Unit"
   - "Type: Bug"
+  - "Type: Documentation"
   - "Type: Feature"
   - "Type: Good First Contribution"
+  - "Type: Refactor"
   - "Type: Regression"
   - "Type: Security"
 # Set to true to ignore issues in a project (defaults to false)
