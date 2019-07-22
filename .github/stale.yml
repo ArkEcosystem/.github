@@ -4,6 +4,13 @@ daysUntilStale: 30
 daysUntilClose: 7
 # Issues with these labels will never be considered stale
 exemptLabels:
+  - "Bounty: Tier 0"
+  - "Bounty: Tier 1"
+  - "Bounty: Tier 2"
+  - "Bounty: Tier 3"
+  - "Bounty: Tier 4"
+  - "Bounty: Tier 5"
+  - "Bounty: Tier 6"
   - "Status: Available"
   - "Status: Blocked"
   - "Status: In Progress"
@@ -11,7 +18,13 @@ exemptLabels:
   - "Status: Needs Investigation"
   - "Status: Needs Review"
   - "Status: On Hold"
+  - "Test: Functional"
+  - "Test: General"
+  - "Test: Integration"
+  - "Test: Unit"
   - "Type: Bug"
+  - "Type: Feature"
+  - "Type: Good First Contribution"
   - "Type: Regression"
   - "Type: Security"
 # Set to true to ignore issues in a project (defaults to false)
