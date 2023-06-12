@@ -34,5 +34,5 @@ These repositories are no longer supported and have been archived.
 
 - [ARK Desktop Wallet](https://github.com/arkecosystem/desktop-wallet) - Legacy desktop wallet for ARK blockchain, a predecessor of ARKVault. The ARK Desktop Wallet is no longer being actively developed.
 - [ARK Mobile Wallet](https://github.com/arkecosystem/mobile-wallet) - Legacy mobile wallet for ARK blockchain, a predecessor of ARKVault. The ARK Mobile Wallet is no longer being actively developed. 
-- [Nodem](https://github.com/ArdentHQ/nodem) - All-in-one tool for managing your ark blockchain nodes with integrations for popular server providers. Nodem is no longer in development.
+- [Nodem](https://github.com/arkecosystem/nodem) - All-in-one tool for managing your ark blockchain nodes with integrations for popular server providers. Nodem is no longer in development.
 
