@@ -1,4 +1,4 @@
-![ARK Ecosystem](./banner.png)
+![ARK Ecosystem](../banner.png)
 
 ### Mission Statement 
 
